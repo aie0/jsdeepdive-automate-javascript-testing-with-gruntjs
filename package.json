@@ -1,11 +1,11 @@
 {
-  "name": "RacemeJS",
+  "name": "jsdeepdive-automate-javascript-testing-with-gruntjs",
   "version": "0.0.1",
-  "description": "JavaScript clustering algorithms framework",
+  "description": "Automate JavaScript Testing with Grunt.js",
   "keywords": [
-    "Clustering",
-    "Data mining",
-    "Big Data"
+    "Jasmine",
+    "Karma",
+    "Grunt.js"
   ],
   "author": {
     "name": "Victor Genin",
@@ -14,7 +14,7 @@
   "homepage": "http://jsdeepdive.blogspot.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aie0/racemejs.git"
+    "url": "https://github.com/aie0/jsdeepdive-automate-javascript-testing-with-gruntjs.git"
   },
   "engines": {
     "node": ">= 0.10.0",
